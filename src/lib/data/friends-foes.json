@@ -1,0 +1,21 @@
+{
+	"friends": [
+		{
+			"name": "Kurapika e os pikakurers",
+			"description": "Confiáveis inúteis",
+			"role": "Cantores de KPOP",
+			"location": "MERCATOR 3",
+			"image": "/images/kurapika.jpg"
+		}
+	],
+	"foes": [
+		{
+			"name": "Space Police",
+			"description": "Policiais só fazendo seu trabalho",
+			"threat": "Low",
+			"lastSeen": "Ao redor de toda a galáxia",
+			"image": "/images/sp.png"
+		}
+	]
+}
+
