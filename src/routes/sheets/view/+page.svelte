@@ -169,5 +169,79 @@
 		text-align: center;
 		color: #ff8888;
 	}
+	
+	@media (max-width: 768px) {
+		.header {
+			flex-direction: column;
+			align-items: flex-start;
+			gap: 1rem;
+		}
+		
+		h1 {
+			font-size: 2rem;
+		}
+		
+		.sheet-content {
+			padding: 1.5rem;
+		}
+		
+		.markdown-content :global(h1) {
+			font-size: 1.6rem;
+		}
+		
+		.markdown-content :global(h2) {
+			font-size: 1.4rem;
+		}
+		
+		.markdown-content :global(h3) {
+			font-size: 1.2rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		.header {
+			gap: 0.75rem;
+		}
+		
+		h1 {
+			font-size: 1.6rem;
+		}
+		
+		.logout-button {
+			width: 100%;
+			padding: 0.65rem;
+			font-size: 0.9rem;
+		}
+		
+		.sheet-content {
+			padding: 1rem;
+		}
+		
+		.markdown-content {
+			font-size: 0.95rem;
+		}
+		
+		.markdown-content :global(h1) {
+			font-size: 1.4rem;
+		}
+		
+		.markdown-content :global(h2) {
+			font-size: 1.2rem;
+		}
+		
+		.markdown-content :global(h3) {
+			font-size: 1.1rem;
+		}
+		
+		.markdown-content :global(ul),
+		.markdown-content :global(ol) {
+			margin-left: 1.25rem;
+		}
+		
+		.markdown-content :global(pre) {
+			padding: 0.75rem;
+			font-size: 0.85rem;
+		}
+	}
 </style>
 

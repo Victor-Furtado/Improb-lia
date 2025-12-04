@@ -94,5 +94,56 @@
 		background-color: #444;
 		color: #fff;
 	}
+	
+	@media (max-width: 768px) {
+		.nav-container {
+			flex-direction: column;
+			gap: 1rem;
+			padding: 0 1rem;
+		}
+		
+		.nav-logo {
+			height: 40px;
+		}
+		
+		.logo-text {
+			font-size: 1.2rem;
+		}
+		
+		.nav-list {
+			flex-wrap: wrap;
+			justify-content: center;
+			gap: 0.5rem;
+			width: 100%;
+		}
+		
+		.nav-link {
+			padding: 0.4rem 0.8rem;
+			font-size: 0.9rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		.nav {
+			padding: 0.75rem 0;
+		}
+		
+		.nav-logo {
+			height: 35px;
+		}
+		
+		.logo-text {
+			font-size: 1rem;
+		}
+		
+		.nav-list {
+			gap: 0.25rem;
+		}
+		
+		.nav-link {
+			padding: 0.35rem 0.6rem;
+			font-size: 0.85rem;
+		}
+	}
 </style>
 

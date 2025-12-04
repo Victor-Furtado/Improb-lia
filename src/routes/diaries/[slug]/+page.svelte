@@ -121,5 +121,72 @@
 		margin-left: 0;
 		color: #bbb;
 	}
+	
+	@media (max-width: 768px) {
+		h1 {
+			font-size: 2rem;
+		}
+		
+		.diary-content {
+			padding: 1.5rem;
+		}
+		
+		.markdown-content :global(h1) {
+			font-size: 1.6rem;
+		}
+		
+		.markdown-content :global(h2) {
+			font-size: 1.4rem;
+		}
+		
+		.markdown-content :global(h3) {
+			font-size: 1.2rem;
+		}
+		
+		.markdown-content :global(ul),
+		.markdown-content :global(ol) {
+			margin-left: 1.5rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		h1 {
+			font-size: 1.6rem;
+		}
+		
+		.diary-content {
+			padding: 1rem;
+		}
+		
+		.date {
+			font-size: 1rem;
+		}
+		
+		.markdown-content {
+			font-size: 0.95rem;
+		}
+		
+		.markdown-content :global(h1) {
+			font-size: 1.4rem;
+		}
+		
+		.markdown-content :global(h2) {
+			font-size: 1.2rem;
+		}
+		
+		.markdown-content :global(h3) {
+			font-size: 1.1rem;
+		}
+		
+		.markdown-content :global(ul),
+		.markdown-content :global(ol) {
+			margin-left: 1.25rem;
+		}
+		
+		.markdown-content :global(pre) {
+			padding: 0.75rem;
+			font-size: 0.85rem;
+		}
+	}
 </style>
 

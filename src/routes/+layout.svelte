@@ -37,4 +37,16 @@
 		padding: 2rem;
 		min-height: calc(100vh - 80px);
 	}
+	
+	@media (max-width: 768px) {
+		.main-content {
+			padding: 1rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		.main-content {
+			padding: 0.75rem;
+		}
+	}
 </style>

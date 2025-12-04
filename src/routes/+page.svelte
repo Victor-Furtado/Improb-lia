@@ -122,4 +122,45 @@
 		margin-bottom: 0;
 		line-height: 1.4;
 	}
+	
+	@media (max-width: 768px) {
+		h1 {
+			font-size: 2rem;
+		}
+		
+		.intro {
+			font-size: 1.1rem;
+		}
+		
+		.features h2 {
+			font-size: 1.6rem;
+		}
+		
+		.feature-grid {
+			grid-template-columns: 1fr;
+			gap: 1rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		h1 {
+			font-size: 1.6rem;
+		}
+		
+		.intro {
+			font-size: 1rem;
+		}
+		
+		.features h2 {
+			font-size: 1.4rem;
+		}
+		
+		.feature-card {
+			padding: 1rem;
+		}
+		
+		.feature-card h3 {
+			font-size: 1.1rem;
+		}
+	}
 </style>

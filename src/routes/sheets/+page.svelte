@@ -191,5 +191,49 @@
 		color: #888;
 		padding: 0.25rem 0;
 	}
+	
+	@media (max-width: 768px) {
+		.login-page {
+			margin: 2rem auto;
+			padding: 0 1rem;
+		}
+		
+		.login-card {
+			padding: 1.5rem;
+		}
+		
+		h1 {
+			font-size: 1.6rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		.login-page {
+			margin: 1rem auto;
+			padding: 0 0.75rem;
+		}
+		
+		.login-card {
+			padding: 1rem;
+		}
+		
+		h1 {
+			font-size: 1.4rem;
+		}
+		
+		.subtitle {
+			font-size: 0.9rem;
+		}
+		
+		input {
+			font-size: 0.95rem;
+			padding: 0.65rem;
+		}
+		
+		.login-button {
+			font-size: 0.95rem;
+			padding: 0.65rem;
+		}
+	}
 </style>
 

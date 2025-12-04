@@ -81,5 +81,46 @@
 		border-radius: 4px;
 		color: #4a9eff;
 	}
+	
+	@media (max-width: 768px) {
+		h1 {
+			font-size: 2rem;
+		}
+		
+		.diary-card {
+			padding: 1rem;
+		}
+		
+		.diary-card h2 {
+			font-size: 1.3rem;
+		}
+		
+		.empty-state {
+			padding: 1.5rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		h1 {
+			font-size: 1.6rem;
+		}
+		
+		.diary-card {
+			padding: 0.75rem;
+		}
+		
+		.diary-card h2 {
+			font-size: 1.1rem;
+		}
+		
+		.diary-card .date {
+			font-size: 0.9rem;
+		}
+		
+		.empty-state {
+			padding: 1rem;
+			font-size: 0.9rem;
+		}
+	}
 </style>
 

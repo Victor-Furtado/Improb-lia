@@ -202,5 +202,61 @@
 		color: #666;
 		font-style: italic;
 	}
+	
+	@media (max-width: 768px) {
+		h1 {
+			font-size: 2rem;
+		}
+		
+		section h2 {
+			font-size: 1.6rem;
+		}
+		
+		.character-grid {
+			grid-template-columns: 1fr;
+			gap: 1rem;
+		}
+		
+		.character-card {
+			flex-direction: column;
+			min-height: auto;
+		}
+		
+		.character-image {
+			width: 100%;
+			height: 200px;
+			min-width: auto;
+		}
+		
+		.character-info {
+			padding: 1rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		h1 {
+			font-size: 1.6rem;
+		}
+		
+		section h2 {
+			font-size: 1.4rem;
+		}
+		
+		.character-card h3 {
+			font-size: 1.2rem;
+		}
+		
+		.character-image {
+			height: 150px;
+		}
+		
+		.character-info {
+			padding: 0.75rem;
+		}
+		
+		.character-card .description {
+			font-size: 0.9rem;
+		}
+	}
 </style>
 

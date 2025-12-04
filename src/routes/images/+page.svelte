@@ -124,5 +124,44 @@
 		height: auto;
 		display: block;
 	}
+	
+	@media (max-width: 768px) {
+		h1 {
+			font-size: 2rem;
+		}
+		
+		.image-section h2 {
+			font-size: 1.5rem;
+		}
+		
+		.image-grid {
+			grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+			gap: 1rem;
+		}
+		
+		.empty-state {
+			padding: 1.5rem;
+		}
+	}
+	
+	@media (max-width: 480px) {
+		h1 {
+			font-size: 1.6rem;
+		}
+		
+		.image-section h2 {
+			font-size: 1.3rem;
+		}
+		
+		.image-grid {
+			grid-template-columns: 1fr;
+			gap: 0.75rem;
+		}
+		
+		.empty-state {
+			padding: 1rem;
+			font-size: 0.9rem;
+		}
+	}
 </style>
 
