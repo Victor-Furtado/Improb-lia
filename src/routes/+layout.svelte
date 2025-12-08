@@ -18,7 +18,7 @@
 
 <Nav />
 <main class="main-content">
-	{@render children()}
+{@render children()}
 </main>
 
 <style>
