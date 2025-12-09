@@ -1,32 +1,33 @@
 [
 	{
-		"username": "Nekirem",
-		"password": "nekas123",
-		"sheet": "# Headless Rider\n\n## Classe: Headless Rider\nPiloto fantasmagórico, veloz, imprevisível.\n\n## Atributos\n- **Força:** +1\n- **Agilidade:** +2\n- **Inteligência:** -1\n- **Vontade:** 0\n\n## Vida\n**15**\n\n## Habilidades\n- **Pilotar**\n- **Esportes**\n\n## Efeitos\n- Rédeas fantasma — Puxa itens pequenos pelo espaço, como se fossem laçados.\n- Pistola Fantasma — Disparos atravessam cobertura leve sem redução de efeito.\n\n## Equipamento\n- **Créditos:** 10\n- **Arma:** Pistola fantasma compacta.\n"
+	  "username": "Nekirem",
+	  "password": "nekas123",
+	  "sheet": "# Headless Rider\n\n## Classe: Headless Rider\nPiloto fantasmagórico, veloz, imprevisível.\n\n## Atributos\n- **Força:** +1\n- **Agilidade:** +2\n- **Inteligência:** -1\n- **Vontade:** 0\n\n## Vida\n**15**\n\n## Habilidades\n- **Pilotar**\n- **Esportes**\n\n## Efeitos\n- Rédeas fantasma — Puxa itens pequenos pelo espaço, como se fossem laçados.\n- Pistola Fantasma — Disparos atravessam cobertura leve sem redução de efeito.\n\n## Equipamento\n- **Créditos:** 10\n- **Arma:** Pistola fantasma compacta.\n\n## Habilidade Única\n> **Ride the Rift:** Uma vez por cena, pode se teleportar para qualquer lugar visível, levando 1 aliado em contato.\n"
 	},
 	{
-		"username": "Fab",
-		"password": "123fabian",
-		"sheet": "# Futurefish\n\n## Classe: Oracle\nPercepção temporal e leitura de futuros.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +2\n- **Vontade:** +1\n\n## Vida\n**11**\n\n## Habilidades\n- **Ciencia**\n- **Cultura**\n\n## Efeitos\n- Golpeie como borboleta: Uma vez por cena, role com Inteligência em vez de Força/Agilidade.\n- Velocidade da visao — Age primeiro.\n\n## Equipamento\n- **Créditos:** 10\n- **Armadura:** Aquario reforcado.\n"
+	  "username": "Fab",
+	  "password": "123fabian",
+	  "sheet": "# Futurefish\n\n## Classe: Oracle\nPercepção temporal e leitura de futuros.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +2\n- **Vontade:** +1\n\n## Vida\n**11**\n\n## Habilidades\n- **Ciencia**\n- **Cultura**\n\n## Efeitos\n- Golpeie como borboleta: Uma vez por cena, role com Inteligência em vez de Força/Agilidade.\n- Velocidade da visao — Age primeiro.\n\n## Equipamento\n- **Créditos:** 10\n- **Armadura:** Aquario reforcado.\n\n## Habilidade Única\n> **Next Turn:** Pergunte ao GM o pior resultado provável de uma ação antes dela acontecer.\n"
 	},
 	{
-		"username": "Meyruen",
-		"password": "Mey123",
-		"sheet": "# Naga Huntress\n\n## Classe: Naga Huntress\nPredadora silenciosa e letal.\n\n## Atributos\n- **Força:** +2\n- **Agilidade:** +1\n- **Inteligência:** -1\n- **Vontade:** 0\n\n## Vida\n**15**\n\n## Habilidades\n- **Furtividade**\n- **Esportes**\n\n## Efeitos\n- Deslizamento Silencioso — Movimento praticamente inaudível. Testes de furtividade, aproximação e emboscada recebem vantagem natural.\n- Sangue Ácido — 1d6 ácido em quem atacar melee.\n\n## Equipamento\n- **Créditos:** 13\n"
+	  "username": "Meyruen",
+	  "password": "Mey123",
+	  "sheet": "# Naga Huntress\n\n## Classe: Naga Huntress\nPredadora silenciosa e letal.\n\n## Atributos\n- **Força:** +2\n- **Agilidade:** +1\n- **Inteligência:** -1\n- **Vontade:** 0\n\n## Vida\n**15**\n\n## Habilidades\n- **Furtividade**\n- **Esportes**\n\n## Efeitos\n- Deslizamento Silencioso — Movimento praticamente inaudível. Testes de furtividade, aproximação e emboscada recebem vantagem natural.\n- Sangue Ácido — 1d6 ácido em quem atacar melee.\n\n## Equipamento\n- **Créditos:** 13\n\n## Habilidade Única\n> **Hunter’s Gaze:** Uma vez por cena, força um alvo visível a rerrolar um teste que tenha acabado de passar.\n"
 	},
 	{
-		"username": "Daniel",
-		"password": "Dandan123",
-		"sheet": "# Blade Monk\n\n## Classe: Blade Monk\nDisciplina psíquica + combate.\n\n## Atributos\n- **Força:** +1\n- **Agilidade:** 0\n- **Inteligência:** -1\n- **Vontade:** +2\n\n## Vida\n**13**\n\n## Habilidades\n- **Esportes**\n- **Cultura**\n\n## Efeitos\n- Force push/pull — Empurrar/puxar com Will.\n- Mentes fracas se curvam — Tenta influenciar com Will.\n\n## Equipamento\n- **Créditos:** 10\n- **Arma:** Espada Laser.\n"
+	  "username": "Daniel",
+	  "password": "Dandan123",
+	  "sheet": "# Blade Monk\n\n## Classe: Blade Monk\nDisciplina psíquica + combate.\n\n## Atributos\n- **Força:** +1\n- **Agilidade:** 0\n- **Inteligência:** -1\n- **Vontade:** +2\n\n## Vida\n**13**\n\n## Habilidades\n- **Esportes**\n- **Cultura**\n\n## Efeitos\n- Force push/pull — Empurrar/puxar com Will.\n- Mentes fracas se curvam — Tenta influenciar com Will.\n\n## Equipamento\n- **Créditos:** 10\n- **Arma:** Espada Laser.\n\n## Habilidade Única\n> **Precognition Reflex:** Uma vez por cena, reduz um ataque recebido para um 7–9.\n"
 	},
 	{
-		"username": "Yao",
-		"password": "DorianSnow123",
-		"sheet": "# Amoebomorph\n\n## Classe: Amoebomorph\nMetamorfo furtivo e social.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +1\n- **Vontade:** +2\n\n## Vida\n**11**\n\n## Habilidades\n- **Furtividade**\n- **Manipulação**\n\n## Efeitos\n- Apegado porém desapegado — Anda em paredes/tetos.\n- Contatos de uma vida  — Sempre há alguém que deve um favor.\n\n## Equipamento\n- **Créditos:** 13\n"
+	  "username": "Yao",
+	  "password": "DorianSnow123",
+	  "sheet": "# Amoebomorph\n\n## Classe: Amoebomorph\nMetamorfo furtivo e social.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +1\n- **Vontade:** +2\n\n## Vida\n**11**\n\n## Habilidades\n- **Furtividade**\n- **Manipulação**\n\n## Efeitos\n- Apegado porém desapegado — Anda em paredes/tetos.\n- Contatos de uma vida — Sempre há alguém que deve um favor.\n\n## Equipamento\n- **Créditos:** 13\n\n## Habilidade Única\n> **Total Morph:** Pode alterar forma e estrutura corporal de modo amplo e livre.\n"
 	},
 	{
-		"username": "Yterbio",
-		"password": "123renato",
-		"sheet": "# Headdeer\n\n## Classe: Oniric Doctor\nMédico psíquico e furtivo.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +1\n- **Vontade:** +2\n\n## Vida\n**11**\n\n## Habilidades\n- **Ciencia**\n- **Furtividade**\n\n## Efeitos\n- Sonambulismo Invertido — Pode se mover sem ser visto ou notado se não fizer ações paralelas.\n- Surto de lucidez — Uma vez por dia, transforme uma falha (6-) em 7–9.\n\n## Equipamento\n- **Créditos:** 13\n"
+	  "username": "Yterbio",
+	  "password": "123renato",
+	  "sheet": "# Headdeer\n\n## Classe: Oniric Doctor\nMédico psíquico e furtivo.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +1\n- **Vontade:** +2\n\n## Vida\n**11**\n\n## Habilidades\n- **Ciencia**\n- **Furtividade**\n\n## Efeitos\n- Sonambulismo Invertido — Pode se mover sem ser visto ou notado se não fizer ações paralelas.\n- Surto de lucidez — Uma vez por dia, transforme uma falha (6-) em 7–9.\n\n## Equipamento\n- **Créditos:** 13\n\n## Habilidade Única\n> **Mind Tune:** Ao tocar alguém com os chifres, descobre memórias, medos ou desejos imediatos.\n"
 	}
-]
+  ]
+  
