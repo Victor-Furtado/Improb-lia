@@ -1,32 +1,32 @@
 [
 	{
-		"username": "Daniel",
-		"password": "Dandan123",
-		"sheet": "# Jedi — Ficha Cortex\n\n## Valor narrativo: 1d4\n\n## Distinções\n\n - Escapar já é natural — d6\n\n - Experiência, é o nome do abismo entre nós — d6\n\n - A força me guia como um rio que flui — d6\n\n## Assets\n\n - Espada de energia — d6\n\nDerrete coisas e deflete lasers, pq não?\n\n - Mentes fracas se curvam — d6\n\nPoderes mentais Jedi\n\n - Dominio da Força — d6\n\nForce push/pull\n\nGimmick Especial\n\nUm com a Força\n\nUsando 1 PP ou aceitando uma Complicação, você pode adicionar um dado às rolagens de força e outros aplicáveis."
+		"username": "Nekirem",
+		"password": "nekas123",
+		"sheet": "# Headless Rider\n\n## Classe: Headless Rider\nPiloto fantasmagórico, veloz, imprevisível.\n\n## Atributos\n- **Força:** +1\n- **Agilidade:** +2\n- **Inteligência:** -1\n- **Vontade:** 0\n\n## Vida\n**15**\n\n## Habilidades\n- **Pilotar**\n- **Esportes**\n\n## Efeitos\n- Rédeas fantasma — Puxa itens pequenos pelo espaço, como se fossem laçados.\n- Pistola Fantasma — Disparos atravessam cobertura leve sem redução de efeito.\n\n## Equipamento\n- **Créditos:** 10\n- **Arma:** Pistola fantasma compacta.\n"
 	},
 	{
 		"username": "Fab",
 		"password": "123fabian",
-		"sheet": "# Peixe do Futuro — Ficha Cortex\n\n## Valor narrativo: 1d4\n\n## Distinções\n\n - Faço o melhor ASMR da galáxia. Subscribe for more — d6\n\n - Eu sei o que você fez no próximo verão. — d6\n\n - Voo como uma borboleta, pico como uma abelha. — d6\n\n## Assets\n\n - Aquário Crono-Vivo — d?\n\nDobra a percepção temporal. Permite agir \"adiantado\" em microações, como ver um ataque antes dele terminar ou prever movimento imediato.\n\n - Peixe Oracular — d?\n\nAcesso a vislumbres de futuros próximos. Vantagem em leitura de intenções, antecipar decisões ou evitar armadilhas óbvias.\n\n - Vibração ASMR Sônica — d?\n\nEfeito calmante ou desorientador em curto alcance.\n\nGimmick Especial\n\nDeslocamento Temporal Recíproco\n\nUsando 1 PP ou aceitando uma Complicação, você pode avançar ou retardar a percepção temporal para criar uma vantagem tática imediata."
+		"sheet": "# Futurefish\n\n## Classe: Oracle\nPercepção temporal e leitura de futuros.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +2\n- **Vontade:** +1\n\n## Vida\n**11**\n\n## Habilidades\n- **Ciencia**\n- **Cultura**\n\n## Efeitos\n- Golpeie como borboleta: Uma vez por cena, role com Inteligência em vez de Força/Agilidade.\n- Velocidade da visao — Age primeiro.\n\n## Equipamento\n- **Créditos:** 10\n- **Armadura:** Aquario reforcado.\n"
 	},
 	{
 		"username": "Meyruen",
 		"password": "Mey123",
-		"sheet": "# Naga — Ficha Cortex\n\n## Valor narrativo: 1d4\n\n## Distinções\n\n - O mundo é pequeno demais pra nós dois — d6\n\n - Meu veneno corrói desde a mais forte armadura até o organismo mais complexo — d6\n\n - Minhas escamas refletem desde a mais bela luz até a maior escuridão — d6\n\n## Assets\n\n - Sangue Ácido — d8\n\nQuando ferida, qualquer contato com seu sangue cria dano corrosivo imediato. Pode ser usado ofensivamente em agarrões, proximidade extrema ou ataques corpo a corpo.\n\n - Deslizamento Silencioso — d6\n\nMovimento praticamente inaudível. Testes de furtividade, aproximação e emboscada recebem vantagem natural.\n\n - Escamas Espelhadas — (não escolhido, permanece para avanço futuro)\n\nCapazes de desviar luz intensa e até refletir energia coerente (como lasers leves).\n\n## Gimmick Especial\n\nOlhar da Caçadora\n\nGaste 1 PP ou aceite uma Complicação para ativar o olhar predatório.\n\nVocê pode forçar um alvo visível — aliado ou inimigo — a rerrolar quantos dados você quiser."
+		"sheet": "# Naga Huntress\n\n## Classe: Naga Huntress\nPredadora silenciosa e letal.\n\n## Atributos\n- **Força:** +2\n- **Agilidade:** +1\n- **Inteligência:** -1\n- **Vontade:** 0\n\n## Vida\n**15**\n\n## Habilidades\n- **Furtividade**\n- **Esportes**\n\n## Efeitos\n- Deslizamento Silencioso — Movimento praticamente inaudível. Testes de furtividade, aproximação e emboscada recebem vantagem natural.\n- Sangue Ácido — 1d6 ácido em quem atacar melee.\n\n## Equipamento\n- **Créditos:** 13\n"
 	},
 	{
-		"username": "Nekirem",
-		"password": "nekas123",
-		"sheet": "# Homem Sem Cabeça — Ficha Cortex\n\n## Valor narrativo: 1d4\n\n## Distinções\n\n - O fantasma de Bourbon-13 — d6\n\n - A velocidade come poeira — d6\n\n - Eu já perdi a cabeça faz tempo — d6\n\n## Assets\n\n - Rédeas do Cavaleiro Perdido — d8\n\nPuxa itens pequenos pelo espaço, como se fossem laçados.\n\n - Pistola Fantasma Bourbon — d6\n\nDisparos atravessam cobertura leve sem redução de efeito.\n\n## Gimmick Especial\n\n### Teleportação Quântica Montada\n\nUsando 1 PP ou aceitando uma Complicação, você pode teleportar a si mesmo (e até 1 indivíduo que toque você) para qualquer lugar visível."
+		"username": "Daniel",
+		"password": "Dandan123",
+		"sheet": "# Blade Monk\n\n## Classe: Blade Monk\nDisciplina psíquica + combate.\n\n## Atributos\n- **Força:** +1\n- **Agilidade:** 0\n- **Inteligência:** -1\n- **Vontade:** +2\n\n## Vida\n**13**\n\n## Habilidades\n- **Esportes**\n- **Cultura**\n\n## Efeitos\n- Force push/pull — Empurrar/puxar com Will.\n- Mentes fracas se curvam — Tenta influenciar com Will.\n\n## Equipamento\n- **Créditos:** 10\n- **Arma:** Espada Laser.\n"
 	},
 	{
 		"username": "Yao",
 		"password": "DorianSnow123",
-		"sheet": "# Amoeba — Ficha Cortex\n\n## Valor narrativo: 1d4\n\n## Distinções (todas d6)\n\n - Só quem se arrisca merece viver o extraordinário — d6\n\n - Tá tranquilo, tá favorável — d6\n\n - A escola molda. A rua forja. — d6\n\n## Assets\n\n - Contatos de uma vida — d8\n\nRede vasta e caótica de informações, favores, boatos e dívidas. Ideal para achar alguém, descobrir segredos ou puxar fio de intriga.\n\n - Apegado porém desapegado — d6\n\nCapacidade natural de aderir a superfícies, escalar paredes, tetos e estruturas verticais sem teste difícil.\n\n - Pessoas como livros — (não escolhido, permanece disponível para avanço futuro)\n\nLer linguagem corporal, mentiras, intenção, ansiedade e microexpressões com facilidade.\n\n## Gimmick Especial\n\nMetamorfose Absoluta\n\nGaste 1 PP ou aceite uma Complicação para alterar forma, tamanho, dureza, densidade ou estrutura do corpo."
+		"sheet": "# Amoebomorph\n\n## Classe: Amoebomorph\nMetamorfo furtivo e social.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +1\n- **Vontade:** +2\n\n## Vida\n**11**\n\n## Habilidades\n- **Furtividade**\n- **Manipulação**\n\n## Efeitos\n- Apegado porém desapegado — Anda em paredes/tetos.\n- Contatos de uma vida  — Sempre há alguém que deve um favor.\n\n## Equipamento\n- **Créditos:** 13\n"
 	},
 	{
 		"username": "Yterbio",
 		"password": "123renato",
-		"sheet": "# Cabeça de Cervo — Ficha Cortex\n\n## Valor narrativo: 1d4\n\n## Distinções\n\n -Faço você sonhar com o que eu quiser — d6\n\n - Ora milagreiro, ora charlatão — d6\n\n - Discrição é comigo mesmo — d6\n\n## Assets\n\n - Olho do Devaneio — d8\n\nDistingue ilusões, alucinações, projeções mentais e realidade sem esforço.\n\n - Manto Silhueta — d6\n\nEspecialista em sumir no cenário, evitar rastros, se mover sem chamar atenção e mascarar presença.\n\n - Diário dos Casos Impossíveis — d6\n\nEspecialista em sumir no cenário, evitar rastros, se mover sem chamar atenção e mascarar presença.\n\n## Gimmick Especial\n\n### Teleportação Quântica Montada\n\nUsando 1 PP ou aceitando uma Complicação, você pode teleportar a si mesmo (e até 1 indivíduo que toque você) para qualquer lugar visível."
+		"sheet": "# Headdeer\n\n## Classe: Oniric Doctor\nMédico psíquico e furtivo.\n\n## Atributos\n- **Força:** -1\n- **Agilidade:** 0\n- **Inteligência:** +1\n- **Vontade:** +2\n\n## Vida\n**11**\n\n## Habilidades\n- **Ciencia**\n- **Furtividade**\n\n## Efeitos\n- Sonambulismo Invertido — Pode se mover sem ser visto ou notado se não fizer ações paralelas.\n- Surto de lucidez — Uma vez por dia, transforme uma falha (6-) em 7–9.\n\n## Equipamento\n- **Créditos:** 13\n"
 	}
 ]
